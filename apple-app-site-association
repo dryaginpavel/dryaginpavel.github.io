@@ -5,7 +5,7 @@
       {
         "appID": "42V7DCQUR8.ru.prognoz.oauth",
         "paths": [
-          "*"
+          "/oauth20/callback"
         ]
       }
     ]
