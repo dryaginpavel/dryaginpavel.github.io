@@ -7,7 +7,14 @@
         "paths": [
 		"*"
         ]
-      }
+      },
+      {
+        "appID": "42V7DCQUR8.ru.test.auth",
+        "paths": [
+		"*"
+        ]
+      },
+      
     ]
   }
 }
